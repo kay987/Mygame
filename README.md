@@ -7,7 +7,7 @@
 ####     감독 : 장준환
 ####     출연배우 : 김윤석, 하정우, 유해진
 ####     상영시간 : 129분
-![1987](/Users/cauadc/Desktop/Temp/Mygame/1987.jpg)
+![1987](/Users/cauadc/Desktop/Temp/Mygame/path/to/1987.jpg)
 ####  2) 월터의 상상은 현실이 된다
 ####     감독 : 벤 스틸러
 ####     출연배우 : 벤 스틸러, 크리스틴 위그, 숀 펜
